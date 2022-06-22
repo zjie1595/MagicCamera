@@ -82,3 +82,9 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+Project-AndroidStudio/.idea/vcs.xml
+Project-AndroidStudio/.idea/modules.xml
+Project-AndroidStudio/.idea/misc.xml
+Project-AndroidStudio/.idea/jarRepositories.xml
+Project-AndroidStudio/.idea/gradle.xml
+Project-AndroidStudio/.idea/compiler.xml

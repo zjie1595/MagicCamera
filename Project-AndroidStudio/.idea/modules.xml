@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Project-AndroidStudio.iml" filepath="$PROJECT_DIR$/.idea/modules/Project-AndroidStudio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Project-AndroidStudio.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Project-AndroidStudio.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Project-AndroidStudio.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Project-AndroidStudio.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Project-AndroidStudio.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Project-AndroidStudio.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Project-AndroidStudio.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Project-AndroidStudio.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/magicfilter/Project-AndroidStudio.magicfilter.iml" filepath="$PROJECT_DIR$/.idea/modules/magicfilter/Project-AndroidStudio.magicfilter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/magicfilter/Project-AndroidStudio.magicfilter.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/magicfilter/Project-AndroidStudio.magicfilter.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/magicfilter/Project-AndroidStudio.magicfilter.main.iml" filepath="$PROJECT_DIR$/.idea/modules/magicfilter/Project-AndroidStudio.magicfilter.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/magicfilter/Project-AndroidStudio.magicfilter.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/magicfilter/Project-AndroidStudio.magicfilter.unitTest.iml" />
+    </modules>
+  </component>
+</project>
